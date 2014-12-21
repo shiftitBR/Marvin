@@ -1,0 +1,5 @@
+Fabric
+South
+#antes de install o pycurl eh necessario instal o curl pelo yum e rodar export PYCURL_SSL_LIBRARY=nss
+pycurl
+python-cjson
